@@ -3,3 +3,13 @@
 ################################################################################
 
 /LogicEvaluator/.vs/LogicEvalApp/v16
+/LogicEvaluator/ConsoleFrontEnd/bin/Debug
+/LogicEvaluator/ConsoleFrontEnd/obj/Debug
+/LogicEvaluator/LogicEvalFrontEnd/bin/Debug
+/LogicEvaluator/LogicEvalFrontEnd/obj/Debug
+/LogicEvaluator/LogicEvalLib/bin/Debug
+/LogicEvaluator/LogicEvalLib/obj/Debug
+/LogicEvaluator/LogicEvalTests/bin/Debug
+/LogicEvaluator/LogicEvalTests/obj/Debug
+/LogicEvaluator/LogicTree.IntelliTests/bin/Debug
+/LogicEvaluator/LogicTree.IntelliTests/obj/Debug
